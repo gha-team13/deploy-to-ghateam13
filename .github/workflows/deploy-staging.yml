@@ -1,4 +1,4 @@
-name: Deploy to staging
+name: Deploy to staging 1
 
 on:
   pull_request:
